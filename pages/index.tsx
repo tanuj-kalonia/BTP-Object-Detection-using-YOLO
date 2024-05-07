@@ -20,8 +20,11 @@ export default function Home() {
             className="underline underline-offset-1 hover:translate-y-1 font-custom"
             href="https:/github.com/tanuj_kalonia"
           >
-            @tanuj_kalonia
+            @tanuj_kalonia and Santosh Rath
           </a>
+          <p>
+            Under the guidence of <strong>Proff. Ajaya Kumar Dash</strong>
+          </p>
         </p>
       </main>
     </>
