@@ -8,6 +8,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 
 const nextConfig = {
   reactStrictMode: true,
+  output: "export",
   webpack: (config, {  }) => {
 
     config.resolve.extensions.push(".ts", ".tsx");
@@ -31,7 +32,7 @@ const nextConfig = {
         ],
       }),
     );
-
+      // <=== enables static exports
     return config;
   },
 }
