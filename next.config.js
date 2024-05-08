@@ -7,6 +7,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 
 const nextConfig = {
+  basdPath: '/BTP-Object-Detection-using-YOLO',
   reactStrictMode: true,
   output: "export",
   webpack: (config, {  }) => {
