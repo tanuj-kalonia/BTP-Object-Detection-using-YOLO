@@ -26,7 +26,7 @@ export default function Home() {
             className="underline underline-offset-1 hover:translate-y-1 font-custom"
             href="https:/github.com/tanuj_kalonia"
           >
-            @Santosh_rath (B520046)
+            @Santosh_rath (B520047)
           </a>
           <br></br>
           <div>Under the guidence of</div>
