@@ -18,7 +18,7 @@ https://github.com/tanuj-kalonia/BTP-Object-Detection-using-YOLO
 
 2. Navigate to the project directory:
 ```
-cd real-time-object-detection-web-app
+cd BTP-Object-Detection-using-YOLO
 ```
 
 3. Install the necessary dependencies by running:
