@@ -4,11 +4,7 @@ You can access the live website [here](https://real-time-object-detection-web-ap
 
 
 ## Demo video
-<div align="center" >
-  <video autoplay loop muted
-  src="./demo_1.mp4" alt="demo.mp4" >
-  </video>
-</div>
+Click [here](https://drive.google.com/file/d/1CEcZ6ZOYAU0r57GBti5RKwBGR6xo0v9X/view?usp=sharing) to have a look at the demo video 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
