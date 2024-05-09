@@ -6,7 +6,7 @@ You can access the live website [here](https://real-time-object-detection-web-ap
 ## Demo video
 <div align="center" >
   <video autoplay loop muted
-  src="https://user-images.githubusercontent.com/44163987/211734752-e354b590-0f55-465a-b783-504ed55d3ed3.mp4" alt="demo.mp4" >
+  src="./demo_1.mp4" alt="demo.mp4" >
   </video>
 </div>
 
