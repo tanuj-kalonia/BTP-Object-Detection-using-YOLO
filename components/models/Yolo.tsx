@@ -13,7 +13,7 @@ const RES_TO_MODEL: [number[], string][] = [
   [[320, 320], "yolov7-tiny_320x320.onnx"],
   [[640, 640], "yolov7-tiny_640x640.onnx"],
 ];
-
+ 
 const Yolo = (props: any) => {
   const [modelResolution, setModelResolution] = useState<number[]>(
     RES_TO_MODEL[0][0]
